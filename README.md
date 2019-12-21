@@ -11,6 +11,9 @@ Project Structure
 - RestClient.cs
 - Program.cs
 
+
+Contents
+
 * Program 
   - It's the main class of the application.
 * RestClient
